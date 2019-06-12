@@ -1,0 +1,17 @@
+https://gitlab.com/robert.berger/python3-nmapwrapper/tree/master/nmapwrapper  - package 2.8.3 - main 
+                                                                                needs tcplientserver 1.0.0
+
+https://gitlab.com/robert.berger/python3-tcpclientserver                      - package tcpclientserver 1.0.0
+
+-----------------
+
+https://gitlab.com/mvimplis2013/messageq-client/                                 - package - main
+
+https://gitlab.com/mvimplis2013/messageq-client/tree/master/messageqclient/redis - package
+
+https://gitlab.com/mvimplis2013/messageq-client/tree/master/messageqclient/vlab/iot        - not needed
+https://gitlab.com/mvimplis2013/messageq-client/tree/master/messageqclient/vlab/monitoring - not needed
+
+
+://gitlab.com/mvimplis2013/messageq-client/tree/master/messageqclient/zero/heartbeat       
+
